@@ -1,8 +1,62 @@
-# React + Vite
+# [Tu Nombre] - Desarrollador Web Full Stack
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Bienvenido a mi portfolio de desarrollo web! Soy Elena, un apasionado desarrollador web full stack con experiencia en tecnologías modernas. Este portfolio presenta algunos de mis proyectos, habilidades y experiencias.
 
-Currently, two official plugins are available:
+## Sobre Mí
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+¡Hola! Soy Elena, un desarrollador web con experiencia en la creación de aplicaciones web dinámicas y atractivas. Mi enfoque principal es el desarrollo full stack, trabajando tanto en el lado del cliente como en el servidor.
+
+- Ubicación: Madrid
+- Email: elenapombocorrales@gmail.com 
+- LinkedIn: elenapombo
+- Portafolio: [Enlace a tu Portafolio en línea]
+
+## Habilidades
+
+- **Frontend:**
+  - HTML5, CSS3, JavaScript 
+  - React.js, Vue.js
+  - Diseño responsivo y accesibilidad web
+
+- **Backend:**
+  - Node.js, Express.js
+  - Base de datos: MongoDB, MySQL
+  - Autenticación y autorización
+
+- **Herramientas y Otros:**
+  - Git y control de versiones
+  - Testing: Jest, Mocha, Chai
+
+
+## Proyectos Destacados
+
+### [Nombre del Proyecto 1]
+Descripción corta del proyecto y tecnologías utilizadas.
+
+[Enlace al Proyecto](#)
+
+### [Nombre del Proyecto 2]
+Descripción corta del proyecto y tecnologías utilizadas.
+
+[Enlace al Proyecto](#)
+
+## Experiencia Laboral
+
+### [Nombre de la Empresa - Cargo]
+Fecha de inicio - Fecha de finalización (o actualidad)
+
+Descripción de las responsabilidades y logros en el puesto.
+
+## Educación
+
+### [BOOTCAMP DESARROLLO WEB FULL STACK FACTORIA F5 Y FUNDACIÓN TOMILLO ]
+Fecha de inicio - Fecha de graduación
+
+Breve descripción de tu experiencia educativa y logros destacados.
+
+## Contacto
+
+¡Estoy abierto a oportunidades emocionantes y colaboraciones! No dudes en contactarme a través de [elenapombocorrales@gmail.com] para discutir proyectos o simplemente saludar.
+
+¡Gracias por visitar mi portfolio!
+
