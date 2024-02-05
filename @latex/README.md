@@ -1,4 +1,4 @@
-# [Tu Nombre] - Desarrollador Web Full Stack
+# Elena Pombo  - Desarrolladora Web Full Stack
 
 ¡Bienvenido a mi portfolio de desarrollo web! Soy Elena, un apasionado desarrollador web full stack con experiencia en tecnologías modernas. Este portfolio presenta algunos de mis proyectos, habilidades y experiencias.
 
@@ -25,7 +25,7 @@
 
 - **Herramientas y Otros:**
   - Git y control de versiones
-  - Testing: Jest, Mocha, Chai
+  - Testing: Jest.
 
 
 ## Proyectos Destacados
